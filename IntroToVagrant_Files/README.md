@@ -17,3 +17,8 @@ vagrant init
 ```
 code Vagrantfile
 ```
+
+# bring the project up with vagrant
+```
+vagrant up
+```
